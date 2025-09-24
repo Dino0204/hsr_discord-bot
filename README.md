@@ -58,7 +58,7 @@ nodemon index.js
 - `Attach Files` - 파일 첨부
 - `Manage Events` - 서버 이벤트 생성/관리 (워프 이벤트 등록 기능용)
 
-## 📁 프로젝트 구조
+## 프로젝트 구조
 
 ```
 hsr_discord-bot-v2/
